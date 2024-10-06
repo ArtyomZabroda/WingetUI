@@ -1,10 +1,10 @@
 {
     "package_count": {
-        "total": 11709,
-        "done": 5113,
-        "packages_with_icon": 5113,
-        "packages_with_screenshot": 587,
-        "total_screenshots": 1827
+        "total": 11710,
+        "done": 5118,
+        "packages_with_icon": 5118,
+        "packages_with_screenshot": 589,
+        "total_screenshots": 1833
     },
     "icons_and_screenshots": {
         "010memorizer": {
@@ -3523,7 +3523,7 @@
             "images": []
         },
         "autofirma": {
-            "icon": "",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Icono_AutoFirma.png",
             "images": []
         },
         "autofixture-automoqprig": {
@@ -5352,8 +5352,9 @@
         "bloxstrap": {
             "icon": "https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Images/Bloxstrap.png",
             "images": [
-                "https://i.postimg.cc/wvB1ZKtG/image.png",
-                "https://i.postimg.cc/JndsW-TZ4/image.png"
+                "https://i.postimg.cc/yNKgjgKs/image.png",
+                "https://i.postimg.cc/JndsW-TZ4/image.png",
+                "https://i.postimg.cc/wvB1ZKtG/image.png"
             ]
         },
         "blu-rayplayer": {
@@ -11704,8 +11705,13 @@
             "images": []
         },
         "downloadmanager": {
-            "icon": "",
-            "images": []
+            "icon": "https://raw.githubusercontent.com/Download-Manager-Community/Download-Manager/refs/heads/master/Resources/icon.png",
+            "images": [
+                "https://github.com/Download-Manager-Community/Download-Manager/blob/master/.github/images/UniGetUI/DownloadManagerMain.png?raw=true",
+                "https://github.com/Download-Manager-Community/Download-Manager/blob/master/.github/images/UniGetUI/DownloadManagerSettings.png?raw=true",
+                "https://github.com/Download-Manager-Community/Download-Manager/blob/master/.github/images/UniGetUI/DownloadManagerDownload.png?raw=true",
+                "https://github.com/Download-Manager-Community/Download-Manager/blob/master/.github/images/UniGetUI/DownloadManagerExt.png?raw=true"
+            ]
         },
         "downtester": {
             "icon": "https://community.chocolatey.org/content/packageimages/downtester.install.1.30.png",
@@ -16881,10 +16887,14 @@
             "images": []
         },
         "google-play-games-beta": {
-            "icon": "",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Play_Games.png",
             "images": [
                 "https://www.gstatic.com/play/games/pc/googleplaygames-beta-opengraph-7ab5c9b4.png"
             ]
+        },
+        "google-quickshare": {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Quickshare.svg/1200px-Quickshare.svg.png",
+            "images": []
         },
         "google-translate-chrome": {
             "icon": "https://community.chocolatey.org/content/packageimages/google-translate-chrome.2.0.7.png",
@@ -20956,8 +20966,10 @@
             "images": []
         },
         "kalker": {
-            "icon": "",
-            "images": []
+            "icon": "https://github.com/PaddiM8/kalker/blob/master/logo.png",
+            "images": [
+                "https://github.com/PaddiM8/kalker/blob/master/preview.png"
+            ]
         },
         "kamban": {
             "icon": "",
@@ -31890,7 +31902,7 @@
             "images": []
         },
         "prismlauncher": {
-            "icon": "https://community.chocolatey.org/content/packageimages/prismlauncher.6.3.png",
+            "icon": "https://cdn.meowcat285.com/public/UnigetIcons/prismlauncher.8.4.20240820.png",
             "images": []
         },
         "pritunl-client": {
